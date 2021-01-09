@@ -26,6 +26,16 @@ O projeto foi desenvolvido com as seguintes tecnologias:
     
     # e importar para a IDE Eclipes ou NetBeans 
     
+    # Obter o programa do Mysql Workbench 
+    
+    # Importar as tabelas do Banco de Dados da SCP 
+    
+    # Jogar no Programa do Mysql WorkBench 
+    
+    # Compilar a Tabela no Banco de dados
+    
+    # Ver os Resultados Finais 
+    
 ```
 
 ## Apresentação do Projeto - Sistema de Cadastro de Produtos simples em Java
