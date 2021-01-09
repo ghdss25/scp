@@ -18,20 +18,14 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ```bash 
 
     # Clonar o repositório 
-    $ git clone https://github.com/ghdss25/CalculoRapido.git
-
-    # Baixar o instalador do Android Studio
-    $ Abrir o Android Studio  
-
-    $ importar o projeto para Ide do Android Studio 
-
-    $ Escolher um emulador de Celular
-
-    $ Escolher a versão do Android que tem que ser 7.0 
-
-    $ Emular esse android Instalado 
-
-    $ Compilar o Projeto já na própria IDE do Android Studio
+    $ git clone https://github.com/ghdss25/SCP.git
+    
+    # Apertar o Botão de Clonar 
+    
+    # Zipar o projeto na sua Àrea de Trabalho
+    
+    # e importar para a IDE Eclipes ou NetBeans 
+    
 ```
 
 ## Apresentação do Projeto - Sistema de Cadastro de Produtos simples em Java
